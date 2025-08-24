@@ -1,6 +1,6 @@
 <div align="right">
 
-🌐 Diller: [English](README.md) | [Türkçe](README.tr.md)
+🌐 Languages: [English](README.md) | [Türkçe](README.tr.md)
 
 </div>
 
