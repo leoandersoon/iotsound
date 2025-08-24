@@ -1,3 +1,10 @@
+<div align="right">
+
+🌐 Diller: [English](README.md) | [Türkçe](README.tr.md)
+
+</div>
+
+
 # IoTSound
 
 **Starter project enabling you to add multi-room audio streaming via Bluetooth, Airplay2, Spotify Connect and others to any old speakers or Hi-Fi using just a Raspberry Pi.**
