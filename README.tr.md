@@ -64,7 +64,7 @@ IoTSound, **açık kaynaklı** bir proje olarak kendi DIY ses akış platformunu
 
 ## Yardım Alma
 
-Herhangi bir sorunla karşılaşırsanız, lütfen GitHub’da **issue** açın; böylece diğer topluluk üyeleri size yardımcı olabilir.
+Herhangi bir sorunla karşılaşırsanız, lütfen GitHub’da **issue** [raise an issue](https://github.com/iotsound/iotsound/issues/new açın; böylece diğer topluluk üyeleri size yardımcı olabilir.
 
 ---
 
