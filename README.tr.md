@@ -22,7 +22,7 @@ Bu projenin devamlı olarak bakımının yapılacağı, çalışacağı veya hat
 - **Volumio:** Ücretsiz ve premium seçeneklerle kendi müzik oynatıcınızı oluşturabilirsiniz.  
 - **piCorePlayer:** Raspberry Pi üzerinde hem yerel hem de çevrimiçi müzik akışı sağlayan ücretsiz yazılım.  
 
-> Tüm bu yazılımlar, Raspberry Pi Imager veya indirmeler aracılığıyla kolayca kurulabilir.
+> Tüm bu yazılımlar, Raspberry Pi Imager veya indirmeler aracılığıyla kolayca kurulabilir.   [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 
 ---
 
@@ -38,7 +38,7 @@ Bu projenin devamlı olarak bakımının yapılacağı, çalışacağı veya hat
 
 Bu uygulamayı çalıştırmak, **balenaCloud** filosuna deploy etmek kadar basittir. Aşağıdaki buton ile tek tıkla yapabilirsiniz:
 
-deploy button
+[![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/iotsound/iotsound&defaultDeviceType=raspberry-pi)
 
 ---
 
