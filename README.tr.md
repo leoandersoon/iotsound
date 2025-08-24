@@ -27,5 +27,5 @@ Eskiden **balenaSound** olarak bilinen proje, balena platformunun IoT cihaz yön
 1. Git Bash veya terminal açın  
 2. Kendi fork’unuzu klonlayın:  
 ```bash
-git clone https://github.com/<kullanici-adiniz>/iotsound.git
+git clone https://github.com/leoandersoon/iotsound.git
 cd iotsound
